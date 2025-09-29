@@ -1,4 +1,4 @@
-#🚀Data Analyst | Power BI | SQL | Excel | Open to New Opportunities
+🚀Data Analyst | Power BI | SQL | Excel | Open to New Opportunities
 
 🔎 About Me
 I'm Vinay, a passionate and results-oriented Data Analyst. I bring together strong technical expertise with business acumen to help organizations transform raw data into actionable insights, driving better decisions and measurable business outcomes.
@@ -18,7 +18,7 @@ Hands-on experience with projects like E-commerce Sales Analysis Dashboard – P
 
 🔗 LinkedIn: linkedin.com/in/vinayappikonda
 
-💻 GitHub: github.com/
+💻 GitHub: github.com/vinay0212
 
 
 🛠️ Core Skills
