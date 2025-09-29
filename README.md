@@ -1,6 +1,7 @@
 🚀Data Analyst | Power BI | SQL | Excel | Open to New Opportunities
 
 🔎 About Me
+
 I'm Vinay, a passionate and results-oriented Data Analyst. I bring together strong technical expertise with business acumen to help organizations transform raw data into actionable insights, driving better decisions and measurable business outcomes.
 
 Graduated from Lovely Professional University, specializing in Data Analysis. With a strong foundation in Excel, SQL, PowerBI. I am eager to kick-start my career and contribute to innovative projects in the data driven roles.
